@@ -1,4 +1,4 @@
-# SQL_advancedcourse
+# SQL for Data Analysis
 SQL for Data Analysis: Advanced SQL Querying Techniques
 
 # COURSE OUTLINE:

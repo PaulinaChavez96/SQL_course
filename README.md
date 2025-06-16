@@ -8,4 +8,4 @@ SQL for Data Analysis: Advanced SQL Querying Techniques
 · Window Functions
 · Functions by Data Type
 · Data Analysis Applications
-# · Final project
+· Final project

@@ -1,5 +1,4 @@
-# SQL for Data Analysis
-SQL for Data Analysis: Advanced SQL Querying Techniques
+# SQL for Data Analysis: Advanced SQL Querying Techniques
 
 # COURSE OUTLINE:
 · SQL Basics Review

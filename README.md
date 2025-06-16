@@ -1,6 +1,6 @@
 # SQL for Data Analysis: Advanced SQL Querying Techniques
 
-# COURSE OUTLINE:
+## COURSE OUTLINE:
 · SQL Basics Review
 · Multi-Table Analysis
 · Subqueries & CTEs
